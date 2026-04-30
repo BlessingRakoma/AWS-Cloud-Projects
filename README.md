@@ -19,7 +19,7 @@ A portfolio of hands-on AWS projects built during my AWS re/Start training progr
 | 2 | [Elastic IP & Network Interfaces](./Mini-Project-2-Elastic-IP-and-ENI) | Elastic IP, ENI | ✅ Complete |
 | 3 | [Backup & Recovery](./Mini-Project-3-Backup-and-Recovery) | EBS, Snapshots, AMI | ✅ Complete |
 | 4 | [IAM Management](./Mini-Project-4-IAM-Management) | IAM Users, Groups, Policies, Roles | ✅ Complete |
-| 5 | [AWS Mini Cloud Lab](./Big-Project-AWS-Mini-Cloud-Lab) | EC2, Networking, EBS, IAM | 🔄 In Progress |
+| 5 | [AWS Mini Cloud Lab](./Big-Project-AWS-Mini-Cloud-Lab) | EC2, Networking, EBS, IAM | ✅ Complete |
 
 ---
 
